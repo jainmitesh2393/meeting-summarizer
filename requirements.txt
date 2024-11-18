@@ -1,0 +1,7 @@
+pandas
+openpyxl
+streamlit
+smtplib
+speechrecognition
+pyttsx3
+groq
