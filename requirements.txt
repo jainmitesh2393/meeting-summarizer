@@ -5,3 +5,4 @@ speechrecognition
 pyttsx3
 groq
 pyttsx3
+gTTS
